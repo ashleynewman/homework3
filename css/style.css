@@ -58,11 +58,10 @@ tr:nth-child(even) {
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
-  /*vertical-align: center;*/
   vertical-align: middle;
   text-align: center;
   text-transform: uppercase;
@@ -80,8 +79,7 @@ td{
   padding: 10px;
   text-align: center;
 }
-/*padding: 15px;*/
-/*border-bottom: 2px solid #000000;*/
+
 
 tr:hover {
   background-color: rgba(126, 8, 48, 0.25);
@@ -113,6 +111,5 @@ footer{
   text-align:center;
   color: #FFFFFF;
   bottom: 0;
-  right: 0;
   left: 0;
 }
